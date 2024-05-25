@@ -1,3 +1,6 @@
 # Git-Github
 
-here the information about git and github
+Here the information about git and github
+
+# Auther
+Jyoti Rathore
